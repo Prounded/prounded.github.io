@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(53, 53, 53);
+    margin: 0px;
+}
+
+.container #result-text{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container #information-label{
+    color: rgb(255, 79, 79);
+    font-size: 13px;
+}
+
+.container{
+    max-width: 350px;
+    margin: auto;
+    margin-top: 10%;
+    height: auto;
+    background-color: rgb(211, 211, 211);
+    border: 1px solid;
+    text-align: center;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.container #textdisplay{
+    text-align: left;
+}
+
+.container #length-password{
+    width: 35px;
+}
+
+.container .labels{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container #submitBtn{
+    font-size: 15px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.container .checkbox{
+    padding: 100px;
+    margin-left: 0px;
+}
+
+.container .result{
+    font-size: 25px;
+}
